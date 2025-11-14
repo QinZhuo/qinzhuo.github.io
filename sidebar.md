@@ -1,6 +1,6 @@
 * [首页](/README.md)
 * Godot 
-  * [补间动画插件](https://github.com/QinZhuo/TweenAnimation)
+  * [补间动画插件](/godot/tween_animation.md)
 * Unity 不再更新
   * [对象池](/unity/qobjectpool.md)
   * [动态列表](/unity/qobjectlist.md)

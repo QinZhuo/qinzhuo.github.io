@@ -1,5 +1,5 @@
 - [首页](/README.md)
 - [Unity](/unity/qobjectpool.md)
 - [Github](https://github.com/QinZhuo)
-- [B站](https://space.bilibili.com/3981300)
+- [Bilibili](https://space.bilibili.com/3981300)
 - [收藏](/unity/others.md)
