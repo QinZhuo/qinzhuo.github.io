@@ -1,3 +1,3 @@
-- [首页](/README.md)
-- [Github](https://github.com/QinZhuo)
-- [Bilibili](https://space.bilibili.com/3981300)
+- 联系
+  - [Github](https://github.com/QinZhuo)
+  - [Bilibili](https://space.bilibili.com/3981300)
