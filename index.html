@@ -21,19 +21,29 @@
       homepage: 'README.md',
       loadNavbar:"navbar.md", 
       loadSidebar:"sidebar.md",
+	  coverpage: "coverpage.md",  
       relativePath: true,
       executeScript: true,
+	  autoHeader: true, 
       noEmoji: true,
       auto2top: true,
+	  search: {                 // 搜索配置
+        maxAge: 86400000,       // 缓存过期时间（1天）
+        paths: 'auto',          // 自动检测路径
+        placeholder: '搜索文档...',
+        noData: '找不到结果!',
+        depth: 3,               // 搜索标题的最大层级
+        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+      },
       //logo: '/_media/icon.svg',
       //数据统计
-      count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'en',
-        isExpected:false,
-      },
+    //   count:{
+    //     countable:true,
+    //     fontsize:'0.9em',
+    //     color:'rgb(90,90,90)',
+    //     language:'en',
+    //     isExpected:false,
+    //   },
       //分页
       pagination: {
         previousText: '上一节',
