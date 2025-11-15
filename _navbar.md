@@ -1,4 +1,5 @@
-- **链接**
+- **导航**
   - [Github](https://github.com/QinZhuo)
   - [Bilibili](https://space.bilibili.com/3981300)
+  - [Godot](/godot/tween_animation.md)
   - [推荐](/other/blog.md)
