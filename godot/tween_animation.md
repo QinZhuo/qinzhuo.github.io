@@ -1,1 +1,1 @@
-[](https://raw.githubusercontent.com/QinZhuo/TweenAnimation/refs/heads/master/README.md  ':include')
+[](https://raw.githubusercontent.com/QinZhuo/TweenAnimation/refs/heads/master/zh/README.md  ':include')
