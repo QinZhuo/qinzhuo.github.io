@@ -7,4 +7,7 @@
 - 游戏 开发 知识 收集 整理 分享
 - [Github](https://github.com/QinZhuo) [Bilibili](https://space.bilibili.com/3981300)
 - [Get Started](/README.md)
+
+<!-- 背景色 -->
+
 ![color](#f0f0f0)
