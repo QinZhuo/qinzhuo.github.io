@@ -1,6 +1,1 @@
-## 内容
-我会分享一些游戏开发方向的知识 也会制作一些[视频](https://space.bilibili.com/3981300)
-## 个人风格
-个人编程的主要风格为 易于使用优先 同时尽可能提高性能
-## 游戏
-喜欢竞技、联机、肉鸽等 局外成长少的游戏 
+[](https://raw.githubusercontent.com/QinZhuo/QinZhuo/refs/heads/master/zh/README.md  ':include')
