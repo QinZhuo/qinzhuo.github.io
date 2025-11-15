@@ -3,21 +3,24 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>琴卓的游戏工坊</title>
+	<title>琴卓的独立游戏工坊</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="description" content="琴卓的游戏工坊，知识 收集 分享">
 	<meta name="keywords" content="QinZhuo,琴卓,游戏,游戏开发,独立游戏,blog,,github-pages" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 	<!-- 主题 -->
-	<link rel="stylesheet" href="theme/dark-react.css" , title="drak">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 </head>
 
 <body>
 	<div id="app">工坊生成中...</div>
-	<script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
 	<script>
 		window.$docsify = {
+			//显示名
 			name: '<b>琴卓</b>',
+			//显示Logo
+			logo: 'https://avatars.githubusercontent.com/u/28733092?v=4',
+			//点击跳转
 			nameLink: 'https://qinzhuo.github.io/#/',
 			//导航栏
 			loadNavbar: true,
@@ -25,8 +28,6 @@
 			loadSidebar: true,
 			//根据侧边栏自动设置标题
 			autoHeader: true,
-			//侧边栏Logo
-			logo: 'https://avatars.githubusercontent.com/u/28733092?v=4',
 			//最大几级目录
 			subMaxLevel: 2,
 			//主页
@@ -47,47 +48,31 @@
 			noEmoji: true,
 			//切换页面后跳转到顶部
 			auto2top: true,
-			//插件设置
+			//更改主题色 
+			themeColor: '#639bff',
+			//搜索插件设置
 			search: {                 // 搜索配置
 				maxAge: 86400000,       // 缓存过期时间（1天）
 				paths: 'auto',          // 自动检测路径
-				placeholder: '搜索文档...',
-				noData: '找不到结果!',
+				placeholder: '...',
+				noData: '工坊中不存在!!!',
 				depth: 3,               // 搜索标题的最大层级
-				hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+				hideOtherSidebarContent: true, // 是否隐藏其他侧边栏内容
 			},
-			//logo: '/_media/icon.svg',
-			//数据统计
-			//   count:{
-			//     countable:true,
-			//     fontsize:'0.9em',
-			//     color:'rgb(90,90,90)',
-			//     language:'en',
-			//     isExpected:false,
-			//   },
-			// 字数插件
-			count: {
-				countable: true,
-				position: 'top',
-				margin: '10px',
-				float: 'right',
-				fontsize: '0.9em',
-				color: 'rgb(90,90,90)',
-				language: 'chinese',
-				localization: {
-					words: "",
-					minute: ""
-				},
-				isExpected: true
-			},
-			//分页插件
+			//分页插件设置
 			pagination: {
 				previousText: '上一节',
 				nextText: '下一节',
 				crossChapter: true,
 				crossChapterText: true,
 			},
-			//页脚插件
+			//复制插件设置
+			copyCode: {
+				buttonText: '复制',
+				errorText: '复制失败',
+				successText: '复制成功',
+			},
+			//页脚插件设置
 			loadFooter: '_footer.md',
 		}
 	</script>

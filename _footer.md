@@ -1,1 +1,1 @@
-© 2025 QinZhuo. 琴卓的游戏工坊
+<div align='center' width='200px' style='color:gray;font-size:10px'>© 2025 QinZhuo  琴卓的独立游戏工坊</div>
