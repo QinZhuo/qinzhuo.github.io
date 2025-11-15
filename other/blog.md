@@ -1,0 +1,12 @@
+# 优秀的开发者
+- 程序
+  - [Nicky 有趣游戏开发者](https://ncase.me/)
+  - [Red Blob Games 各种游戏算法研究 在线演示](https://www.redblobgames.com/)
+  - [Catlike Coding 各种游戏教程](https://catlikecoding.com/unity/tutorials/)
+- 美术
+  - [PixelGif 像素Gif教程整合](http://pixelgif.cn/#/)
+  - [绘制动画教程](https://iwanttobeananimator.wordpress.com/)
+- 资讯
+  - [digra 学术文档](https://dl.digra.org/index.php/dl/index)
+  - [GDC](https://gdconf.com/)
+  - [gamesindustry](https://www.gamesindustry.biz/)

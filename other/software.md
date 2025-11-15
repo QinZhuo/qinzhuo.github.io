@@ -1,0 +1,14 @@
+# 开发软件
+- 美术
+  - 2D
+    - [绘画 Krita](https://krita.org/zh-cn/features/)
+    - [矢量图形 Inkscape](https://inkscape.org/zh/)
+	- [像素绘画 Aseprite](https://www.aseprite.org/)
+  - 3D
+    - [建模 blender](https://store.steampowered.com/app/365670/Blender/)
+    - [体素建模 magica voxel](https://ephtracy.github.io/)
+      - [体素 Shader](https://github.com/lachlanmcdonald/magicavoxel-shaders/wiki)
+    - 3D打印
+      - [makerworld](https://makerworld.com.cn/zh)
+- 游戏引擎
+    - [Godot Engine](https://store.steampowered.com/app/404790/Godot_Engine/)
