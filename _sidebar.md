@@ -1,12 +1,12 @@
-- Godot 
+- **Godot** 
   - [补间动画插件](/godot/tween_animation.md)
-- Unity (弃用)
+- **Unity**
   - [对象池](/unity/qobjectpool.md)
   - [动态列表](/unity/qobjectlist.md)
   - [虚拟列表](/unity/qvirtuallist.md)
   - [协程逻辑](/unity/qcoroutine.md)
   - [可搜索下拉框](/unity/qadvanceddropdown.md)
-- 推荐
+- **推荐**
   - [优秀开发者](/other/blog.md)
   - [游戏开发软件](/other/software.md)
   - [游戏开发资源](/other/asset.md)

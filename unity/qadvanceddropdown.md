@@ -1,12 +1,6 @@
 # 可搜索下拉框
 基于AdvancedDropdown制作的可搜索下拉框
 
-<!-- [](https://ncase.me/sight-and-light/draft7.html ':include') -->
-
-<!-- [gist: script.js](https://raw.githubusercontent.com/QinZhuo/IDG_Game_One/refs/heads/master/Assets/Scripts/GunBase.cs ':include :type=code') -->
-
-
-<!-- [](https://github.com/QinZhuo/IDG_Game_One/blob/master/Assets/Scripts/GunBase.cs ':include :type=code') -->
 
 ![](https://raw.githubusercontent.com/QinZhuo/qinzhuo.github.io/refs/heads/master/unity/qdropdown.png)
 ```csharp
@@ -133,9 +127,6 @@ public class QAdvancedDropdown : AdvancedDropdown {
 				dropdown.Add(popupData.List);
 				dropdown.Show(propertyField.worldBound);
 			});
-			//propertyField.label = "";
-			//visual.style.width = new Length(50, LengthUnit.Percent);
-			//propertyField.style.width = new Length(50, LengthUnit.Percent);
 		
 			return root;
 		}
