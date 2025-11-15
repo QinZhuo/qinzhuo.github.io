@@ -8,6 +8,11 @@
 - [Github](https://github.com/QinZhuo) [Bilibili](https://space.bilibili.com/3981300)
 - [Get Started](/README.md)
 
-<!-- 背景色 -->
+
+<!-- background image -->
+
+![]([_media/bg.png](https://avatars.githubusercontent.com/u/28733092?v=4))
+
+<!-- background color -->
 
 ![color](#f0f0f0)
