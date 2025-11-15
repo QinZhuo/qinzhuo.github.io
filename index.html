@@ -1,94 +1,110 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
+
 <head>
-  <meta charset="UTF-8">
-  <title>QinZhuo</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- 主题 -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css"> -->
-  <link rel="stylesheet" href="theme/dark-react.css">
+	<meta charset="UTF-8">
+	<title>琴卓的游戏工坊</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="description" content="琴卓的游戏工坊，知识 收集 分享">
+	<meta name="keywords" content="QinZhuo,琴卓,游戏,游戏开发,独立游戏,blog,,github-pages" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+	<!-- 主题 -->
+	<link rel="stylesheet" href="theme/dark-react.css" , title="drak">
 </head>
+
 <body>
-  <div id="app"></div> 
-  <script>
-    window.$docsify = {
-      name: '<b>琴卓</b>',
-      nameLink: 'https://space.bilibili.com/3981300',
-      //repo: 'https://github.com/QinZhuo',
-      subMaxLevel: 2,
-      homepage: 'README.md',
-      loadNavbar:"navbar.md", 
-      loadSidebar:"sidebar.md",
-	  coverpage: "coverpage.md",  
-      relativePath: true,
-      executeScript: true,
-	  autoHeader: true, 
-      noEmoji: true,
-      auto2top: true,
-	  search: {                 // 搜索配置
-        maxAge: 86400000,       // 缓存过期时间（1天）
-        paths: 'auto',          // 自动检测路径
-        placeholder: '搜索文档...',
-        noData: '找不到结果!',
-        depth: 3,               // 搜索标题的最大层级
-        hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
-      },
-      //logo: '/_media/icon.svg',
-      //数据统计
-    //   count:{
-    //     countable:true,
-    //     fontsize:'0.9em',
-    //     color:'rgb(90,90,90)',
-    //     language:'en',
-    //     isExpected:false,
-    //   },
-      //分页
-      pagination: {
-        previousText: '上一节',
-        nextText: '下一节',
-        crossChapter: true,
-        crossChapterText: true,
-      },
-      //页脚
-      loadFooter: 'footer.md',
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- 评论 -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script> -->
-  <!-- <script>
-    var gitalk = new Gitalk({
-      clientID: 'Ov23liNGNkBpTcgTepyp',
-      clientSecret: 'c2d861e1d167155985cdcffb36593b39044839d9',
-      repo: 'qinzhuo.github.io',      // The repository of store comments,
-      owner: 'QinZhuo',
-      admin: ['QinZhuo'],
-      id: location.hash.match(/#(.*?)([?]|$)/)[1],      // Ensure uniqueness and length less than 50
-      title: `Talk ${location.hash.match(/#(.*?)([?]|$)/)[1]}`,
-      distractionFreeMode: true  // Facebook-like distraction free mode
-    })
-    window.onhashchange = function (event) {
-        if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
-            location.reload()
-        }
-    }
-  </script>  -->
-  <!-- 复制 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-  <!-- 数据统计 -->
-  <!-- <script src="//unpkg.com/docsify-count/dist/countable.js"></script> -->
-  <!-- 分页 -->
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <!-- 页脚 -->
-  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
-  <!-- C#代码高亮 -->
-  <!-- <script src="//cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-csharp.js"></script> -->
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-csharp.min.js"></script>
+	<div id="app">工坊生成中...</div>
+	<script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
+	<script>
+		window.$docsify = {
+			name: '<b>琴卓</b>',
+			nameLink: 'https://github.com/QinZhuo',
+			//导航栏
+			loadNavbar: true,
+			//侧边栏
+			loadSidebar: true,
+			//根据侧边栏自动设置标题
+			autoHeader: true,
+			//侧边栏Logo
+			log: 'https://avatars.githubusercontent.com/u/28733092?v=4',
+			//最大几级目录
+			subMaxLevel: 2,
+			//主页
+			homepage: 'README.md',
+			//封面页
+			coverpage: true,
+			//滚动到锚点是与顶部的距离
+			topMargin: 90,
+			//加载_404.md
+			notFoundPage: true,
+			//使用相对路径
+			relativePath: true,
+			//执行脚本
+			executeScript: true,
+			//禁用Emoji解析
+			noEmoji: true,
+			//切换页面后跳转到顶部
+			auto2top: true,
+			//文档变更日期
+			formatUpdated: '{MM}/{DD} {HH}:{mm}',
+			//插件设置
+			search: {                 // 搜索配置
+				maxAge: 86400000,       // 缓存过期时间（1天）
+				paths: 'auto',          // 自动检测路径
+				placeholder: '搜索文档...',
+				noData: '找不到结果!',
+				depth: 3,               // 搜索标题的最大层级
+				hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+			},
+			//logo: '/_media/icon.svg',
+			//数据统计
+			//   count:{
+			//     countable:true,
+			//     fontsize:'0.9em',
+			//     color:'rgb(90,90,90)',
+			//     language:'en',
+			//     isExpected:false,
+			//   },
+			// 字数插件
+			count: {
+				countable: true,
+				position: 'top',
+				margin: '10px',
+				float: 'right',
+				fontsize: '0.9em',
+				color: 'rgb(90,90,90)',
+				language: 'chinese',
+				localization: {
+					words: "",
+					minute: ""
+				},
+				isExpected: true
+			},
+			//分页插件
+			pagination: {
+				previousText: '上一节',
+				nextText: '下一节',
+				crossChapter: true,
+				crossChapterText: true,
+			},
+			//页脚插件
+			loadFooter: '_footer.md',
+		}
+	</script>
+	<!-- Docsify 核心文件 -->
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+	<!-- 搜索插件 -->
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+	<!-- 图片缩放插件 -->
+	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+	<!-- 字数插件 -->
+	<script src="<https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js>"></script>
+	<!-- 代码复制插件 -->
+	<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+	<!-- 分页插件 -->
+	<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+	<!-- 页脚 -->
+	<script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 </body>
- 
+
 </html>
