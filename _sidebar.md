@@ -1,4 +1,3 @@
-- [首页](/README.md)
 - Godot 
   - [补间动画插件](/godot/tween_animation.md)
 - Unity (弃用)
