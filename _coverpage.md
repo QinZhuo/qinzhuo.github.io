@@ -9,4 +9,5 @@
 - 网站整理
 - [Github](https://github.com/QinZhuo)
 - [Bilibili](https://space.bilibili.com/3981300)
-[Get Started](#内容)
+[Get Started](/README.md)
+![color](#f0f0f0)
