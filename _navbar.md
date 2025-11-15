@@ -1,3 +1,4 @@
-- 联系
+- **链接**
   - [Github](https://github.com/QinZhuo)
   - [Bilibili](https://space.bilibili.com/3981300)
+  - [推荐](/other/blog.md)
