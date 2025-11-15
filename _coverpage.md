@@ -10,8 +10,8 @@
 
 
 <!-- background image -->
-
-![]([_media/bg.png](https://avatars.githubusercontent.com/u/28733092?v=4))
+<!-- 
+![]([_media/bg.png](https://avatars.githubusercontent.com/u/28733092?v=4)) -->
 
 <!-- background color -->
 
