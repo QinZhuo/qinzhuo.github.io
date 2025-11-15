@@ -8,5 +8,6 @@
   - [协程逻辑](/unity/qcoroutine.md)
   - [可搜索下拉框](/unity/qadvanceddropdown.md)
 - 推荐
-  - [Blog](/other/blog.md)
-  - [软件](/other/software.md)
+  - [优秀开发者](/other/blog.md)
+  - [游戏开发软件](/other/software.md)
+  - [游戏开发资源](/other/asset.md)

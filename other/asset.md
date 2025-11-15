@@ -1,4 +1,4 @@
-# 游戏资源 
+# 游戏开发资源 
 - 美术
   - 2D
     - [vecteezy 矢量](https://www.vecteezy.com/free-vector/plant)

@@ -1,4 +1,4 @@
-# 开发软件
+# 游戏开发软件
 - 美术
   - 2D
     - [绘画 Krita](https://krita.org/zh-cn/features/)
