@@ -7,6 +7,7 @@
   - [PixelGif 像素Gif教程整合](http://pixelgif.cn/#/)
   - [绘制动画教程](https://iwanttobeananimator.wordpress.com/)
 - 资讯
+  - [polycount 艺术分享论坛](https://polycount.com/)
   - [digra 学术文档](https://dl.digra.org/index.php/dl/index)
   - [GDC](https://gdconf.com/)
   - [gamesindustry](https://www.gamesindustry.biz/)
