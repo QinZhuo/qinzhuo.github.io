@@ -12,11 +12,13 @@
     - [Mixamo 人形动画 绑定](https://www.mixamo.com/#/)
     - [动作参考视频](https://space.bilibili.com/2026611047?spm_id_from=333.788.upinfo.head.click)
   - [kenney 各种资源](https://www.kenney.nl/assets)
-  - [开源游戏艺术](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=1)
+  - [开源游戏艺术](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=1)s
 - 音乐
   - [Freesound 音效](https://freesound.org/)
   - [Musopen 古典乐](https://musopen.org/music/)
   - [raisedbeaches UI音效](http://raisedbeaches.com/octave/index.html)
+- 字体
+  - [中文开源字体集](https://drxie.github.io/OSFCC/)
 - 综合
   - [itch.io](https://itch.io/game-assets)
   - [gamedevmarket 游戏开发市场](https://www.gamedevmarket.net/)
