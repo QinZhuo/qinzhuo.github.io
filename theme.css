@@ -1930,61 +1930,128 @@ body .sidebar {
 }
 
 :root {
+	/* ========== 单色系颜色配置 ========== */
 	--mono-hue: 113;
+	/* 单色系基础色相 (Hue) */
 	--mono-saturation: 0%;
+	/* 单色系饱和度 (0%为灰度) */
 	--mono-shade3: hsl(var(--mono-hue), var(--mono-saturation), 20%);
+	/* 最深的灰度色 - 用于深色文本 */
 	--mono-shade2: hsl(var(--mono-hue), var(--mono-saturation), 30%);
+	/* 次深灰度 - 主文本颜色 */
 	--mono-shade1: hsl(var(--mono-hue), var(--mono-saturation), 40%);
+	/* 中性灰度 - 次要文本 */
 	--mono-base: hsl(var(--mono-hue), var(--mono-saturation), 50%);
+	/* 基础灰度 - 默认元素色 */
 	--mono-tint1: hsl(var(--mono-hue), var(--mono-saturation), 70%);
+	/* 浅灰1 - 边框/分隔线 */
 	--mono-tint2: hsl(var(--mono-hue), var(--mono-saturation), 89%);
+	/* 浅灰2 - 背景高亮/卡片 */
 	--mono-tint3: hsl(var(--mono-hue), var(--mono-saturation), 97%);
+	/* 最浅灰 - 页面背景 */
+
+	/* ========== 主题色配置 ========== */
 	--theme-hue: 204;
+	/* 主题色色相 (蓝色系) */
 	--theme-saturation: 90%;
+	/* 主题色饱和度 */
 	--theme-lightness: 45%;
+	/* 主题色明度 */
 	--theme-color: hsl(var(--theme-hue), var(--theme-saturation), var(--theme-lightness));
+	/* 生成的主题色 (用于链接/按钮) */
+
+	/* ========== 字体缩放系统 ========== */
 	--modular-scale: 1.333;
+	/* 字体缩放比例 (类似1.333黄金比例) */
+	/* 生成字体大小阶梯 (基于缩放比例) */
 	--modular-scale--2: calc(var(--modular-scale--1) / var(--modular-scale));
+	/* 极小文本 */
 	--modular-scale--1: calc(var(--modular-scale-1) / var(--modular-scale));
+	/* 小号文本 */
 	--modular-scale-1: 1rem;
+	/* 基础字体尺寸 (16px) */
 	--modular-scale-2: calc(var(--modular-scale-1) * var(--modular-scale));
+	/* 正文标题 */
 	--modular-scale-3: calc(var(--modular-scale-2) * var(--modular-scale));
+	/* 小标题 */
 	--modular-scale-4: calc(var(--modular-scale-3) * var(--modular-scale));
+	/* 中标题 */
 	--modular-scale-5: calc(var(--modular-scale-4) * var(--modular-scale));
+	/* 大标题 */
+
+	/* ========== 字体尺寸命名变量 ========== */
 	--font-size-xxxl: var(--modular-scale-5);
+	/* 超大标题 */
 	--font-size-xxl: var(--modular-scale-4);
+	/* 特大标题 */
 	--font-size-xl: var(--modular-scale-3);
+	/* 大标题 */
 	--font-size-l: var(--modular-scale-2);
+	/* 副标题 */
 	--font-size-m: var(--modular-scale-1);
+	/* 正文尺寸 */
 	--font-size-s: var(--modular-scale--1);
+	/* 注释/辅助文本 */
 	--font-size-xs: var(--modular-scale--2);
+	/* 极小的说明文字 */
+
+	/* ========== 动画速度配置 ========== */
 	--duration-slow: 1s;
+	/* 慢速动画效果 (如页面切换) */
 	--duration-medium: 0.5s;
+	/* 中速动画 (默认可视变化) */
 	--duration-fast: 0.25s;
+	/* 快速动画 (悬停反馈等) */
+
+	/* ========== 加载指示器设置 ========== */
 	--spinner-size: 60px;
+	/* 加载动画尺寸 */
 	--spinner-track-width: 4px;
+	/* 加载圆环粗细 */
 	--spinner-track-color: rgba(0, 0, 0, 0.15);
+	/* 加载圆环背景色 */
 	--spinner-transition-duration: var(--duration-medium)
+		/* 加载动画速度 */
 }
 
 :root {
+	/* ========== 基础视觉配置 ========== */
 	--base-background-color: #fff;
+	/* 页面背景色 */
 	--base-color: var(--mono-shade2);
+	/* 主文本颜色 */
+	/* 系统优先的字体栈 (支持Emoji) */
 	--base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	--base-font-size: 16px;
+	/* 根字体大小 */
 	--base-font-weight: normal;
+	/* 默认字体粗细 */
 	--base-line-height: 1.7;
+	/* 行高 (无单位值) */
 	--emoji-size: calc(var(--base-line-height) * 1em);
+	/* Emoji图片尺寸控制 */
+
+	/* ========== 元素样式定义 ========== */
 	--hr-border: 1px solid var(--mono-tint2);
+	/* 水平分隔线样式 */
 	--mark-background: #ffecb3;
+	/* 文本标记背景色 (荧光笔效果) */
 	--pre-font-family: var(--code-font-family);
+	/* 代码块字体 (继承自代码字体) */
 	--pre-font-size: var(--code-font-size);
+	/* 代码块字号 */
 	--pre-font-weight: normal;
+	/* 代码块字重 */
 	--selection-color: #b4d5fe;
+	/* 文本选中背景色 */
 	--small-font-size: var(--font-size-s);
+	/* <small>标签字号 */
 	--strong-color: var(--heading-color);
+	/* <strong>标签颜色 (继承标题色) */
 	--strong-font-weight: 600;
-	--subsup-font-size: var(--font-size-s)
+	/* <strong>标签字重 */
+	--subsup-font-size: var(--font-size-s);
+	/* 上标/下标字体大小 */
 }
 
 :root {

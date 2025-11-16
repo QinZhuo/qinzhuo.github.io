@@ -6,3 +6,5 @@
 **游戏** 喜欢竞技、联机、肉鸽等 局外成长少的游戏 
 
 [独游工坊](https://qinzhuo.github.io) • [Github](https://github.com/QinZhuo) • [哔哩哔哩](https://space.bilibili.com/3981300)
+
+<!-- 'https://raw.githubusercontent.com/QinZhuo/QinZhuo/refs/heads/master/zh/README.md' -->
