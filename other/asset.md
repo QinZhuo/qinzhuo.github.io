@@ -24,6 +24,8 @@
   - [Freesound 音效](https://freesound.org/)
   - [Musopen 古典乐](https://musopen.org/music/)
   - [raisedbeaches UI音效](http://raisedbeaches.com/octave/index.html)
+  - [soundraw AI生成 免费试用](https://soundraw.io/)
+  - [suno AI生成 免费试用](https://suno.com/home)
 - 字体
   - [中文开源字体集](https://drxie.github.io/OSFCC/)
 - 综合
@@ -31,3 +33,4 @@
   - [gamedevmarket 游戏开发市场](https://www.gamedevmarket.net/)
   - [craftpix 专注2D的资源商店](https://craftpix.net/)
   - [cg3da 学习版资源](https://www.cg3da.com/)
+  - [AI导航](https://www.aigc.cn/)
