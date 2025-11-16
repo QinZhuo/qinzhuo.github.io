@@ -183,7 +183,8 @@ hr {
 
 img {
 	max-width: 100%;
-	border: 0
+	border: 2px solid var(--mono-shade1);
+	border-radius: var(--border-radius-s);
 }
 
 main {
@@ -2252,9 +2253,9 @@ body .sidebar {
 }
 
 :root {
-	--border-radius-s: 2px;
-	--border-radius-m: 4px;
-	--border-radius-l: 8px;
+	--border-radius-s: 8px;
+	--border-radius-m: 12px;
+	--border-radius-l: 16px;
 	--strong-font-weight: 600;
 	--blockquote-border-color: var(--theme-color);
 	--blockquote-border-radius: 0 var(--border-radius-m) var(--border-radius-m) 0;
