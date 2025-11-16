@@ -8,7 +8,7 @@
 - 游戏 · 知识 · 学习
 
 
-[开始](/README.md)
+[开始](/_homepage.md)
 [Github](https://github.com/QinZhuo)
 [Bilibili](https://space.bilibili.com/3981300)
 
