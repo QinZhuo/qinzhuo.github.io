@@ -10,5 +10,9 @@
       - [体素 Shader](https://github.com/lachlanmcdonald/magicavoxel-shaders/wiki)
     - 3D打印
       - [makerworld](https://makerworld.com.cn/zh)
+- 音乐
+  - [LMMS 全能编曲](https://lmms.io/)
+  - [Bosca Ceoil Blue bit背景乐](https://github.com/YuriSizov/boscaceoil-blue)
 - 游戏引擎
-    - [Godot Engine](https://store.steampowered.com/app/404790/Godot_Engine/)
+  - [Godot Engine](https://store.steampowered.com/app/404790/Godot_Engine/)
+  - [VSCode](https://code.visualstudio.com/)

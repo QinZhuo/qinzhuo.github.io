@@ -23,9 +23,12 @@
 - 音乐
   - [Freesound 音效](https://freesound.org/)
   - [Musopen 古典乐](https://musopen.org/music/)
+  - [soundbible 音效](https://soundbible.com/)
+  - [pacdv 音效](https://www.pacdv.com/)
   - [raisedbeaches UI音效](http://raisedbeaches.com/octave/index.html)
   - [soundraw AI生成 免费试用](https://soundraw.io/)
   - [suno AI生成 免费试用](https://suno.com/home)
+  - [soundimage 付费署名 综合](https://soundimage.org/)
 - 字体
   - [中文开源字体集](https://drxie.github.io/OSFCC/)
 - 综合
