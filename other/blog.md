@@ -4,6 +4,7 @@
   - [Red Blob Games 各种游戏算法研究 在线演示](https://www.redblobgames.com/)
   - [Catlike Coding 各种游戏教程](https://catlikecoding.com/unity/tutorials/)
 - 美术
+  - [kenney 教程 资源 工具](https://www.kenney.nl/)
   - [PixelGif 像素Gif教程整合](http://pixelgif.cn/#/)
   - [绘制动画教程](https://iwanttobeananimator.wordpress.com/)
 - 整合

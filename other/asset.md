@@ -21,6 +21,7 @@
   - [kenney 各种资源](https://www.kenney.nl/assets)
   - [开源游戏艺术](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=1)
 - 音乐
+  - [gamesounds 免费游戏声音](https://gamesounds.xyz/)
   - [Freesound 音效](https://freesound.org/)
   - [Musopen 古典乐](https://musopen.org/music/)
   - [soundbible 音效](https://soundbible.com/)

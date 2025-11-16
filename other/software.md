@@ -12,6 +12,7 @@
       - [makerworld](https://makerworld.com.cn/zh)
 - 音乐
   - [Bfxr 在线电子音效制作](https://www.bfxr.net/)
+  - [jfxr 在线电子音效制作](https://jfxr.frozenfractal.com/)
   - [LMMS 全能编曲](https://lmms.io/)
   - [Bosca Ceoil Blue bit背景乐](https://github.com/YuriSizov/boscaceoil-blue)
 - 开发
