@@ -11,3 +11,4 @@
   - [开发者分享](/other/blog.md)
   - [游戏开发软件](/other/software.md)
   - [游戏开发资源](/other/asset.md)
+  - [令人赞叹的清单](/other/other.md)

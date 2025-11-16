@@ -11,8 +11,9 @@
     - 3D打印
       - [makerworld](https://makerworld.com.cn/zh)
 - 音乐
+  - [Bfxr 在线电子音效制作](https://www.bfxr.net/)
   - [LMMS 全能编曲](https://lmms.io/)
   - [Bosca Ceoil Blue bit背景乐](https://github.com/YuriSizov/boscaceoil-blue)
 - 开发
-  - [Godot Engine](https://store.steampowered.com/app/404790/Godot_Engine/)
+  - [Godot Engine](https://stoBre.steampowered.com/app/404790/Godot_Engine/)
   - [VSCode](https://code.visualstudio.com/)
