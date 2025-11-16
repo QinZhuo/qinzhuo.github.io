@@ -1,4 +1,4 @@
-# 优秀开发者
+# 开发者分享
 - 程序
   - [Nicky 有趣游戏开发者](https://ncase.me/)
   - [Red Blob Games 各种游戏算法研究 在线演示](https://www.redblobgames.com/)

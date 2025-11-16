@@ -1,5 +1,12 @@
 # 游戏开发资源 
 - 美术
+  - 色彩
+    - [像素配色](https://lospec.com/palette-list)
+    - [中国色](https://zhongguose.com/)
+    - [日本色](https://nipponcolors.com/)
+    - [webgradients 渐变色参考](https://webgradients.com/)
+    - [coolors.co 随机色板生成](https://coolors.co/)
+    - [鼠标快速选色](https://www.toptal.com/designers/colourcode)
   - 2D
     - [vecteezy 矢量](https://www.vecteezy.com/free-vector/plant)
     - [game-icons 游戏图标](https://game-icons.net/)
@@ -12,7 +19,7 @@
     - [Mixamo 人形动画 绑定](https://www.mixamo.com/#/)
     - [动作参考视频](https://space.bilibili.com/2026611047?spm_id_from=333.788.upinfo.head.click)
   - [kenney 各种资源](https://www.kenney.nl/assets)
-  - [开源游戏艺术](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=1)s
+  - [开源游戏艺术](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B0%5D=9&sort_by=count&sort_order=DESC&page=1)
 - 音乐
   - [Freesound 音效](https://freesound.org/)
   - [Musopen 古典乐](https://musopen.org/music/)
