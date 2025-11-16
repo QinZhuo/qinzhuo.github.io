@@ -2358,15 +2358,15 @@ body .sidebar {
 }
 
 :root {
-	--mono-hue: 201;
-	--mono-saturation: 18%;
-	--mono-shade3: hsl(var(--mono-hue), var(--mono-saturation), 13%);
+	--mono-hue: 218;
+	--mono-saturation: 16%;
+	--mono-shade3: hsl(var(--mono-hue), var(--mono-saturation), 10%);
 	--mono-shade2: hsl(var(--mono-hue), var(--mono-saturation), 15%);
-	--mono-shade1: hsl(var(--mono-hue), var(--mono-saturation), 17%);
-	--mono-base: hsl(var(--mono-hue), var(--mono-saturation), 19%);
-	--mono-tint1: hsl(var(--mono-hue), var(--mono-saturation), 25%);
-	--mono-tint2: hsl(var(--mono-hue), var(--mono-saturation), 35%);
-	--mono-tint3: hsl(var(--mono-hue), var(--mono-saturation), 43%);
+	--mono-shade1: hsl(var(--mono-hue), var(--mono-saturation), 18%);
+	--mono-base: hsl(var(--mono-hue), var(--mono-saturation), 25%);
+	--mono-tint1: hsl(var(--mono-hue), var(--mono-saturation), 30%);
+	--mono-tint2: hsl(var(--mono-hue), var(--mono-saturation), 50%);
+	--mono-tint3: hsl(var(--mono-hue), var(--mono-saturation), 70%);
 	--spinner-track-color: rgba(255, 255, 255, 0.15);
 	--base-background-color: var(--mono-base);
 	--base-color: #d3d3d3;
@@ -2387,7 +2387,7 @@ body .sidebar {
 	--table-cell-border-color: var(--mono-tint1);
 	--table-row-odd-background: var(--mono-shade2);
 	--cover-background-color: var(--base-background-color);
-	--cover-background-image: radial-gradient(ellipse at center bottom, var(--mono-tint3), transparent);
+	--cover-background-image: radial-gradient(ellipse at center, var(--mono-tint3), transparent);
 	--cover-blockquote-color: var(--mark-background);
 	--cover-button-border: 1px solid var(--mono-tint3);
 	--cover-button-color: #fff;
@@ -2410,5 +2410,3 @@ body .sidebar {
 	--sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4px);
 	--sidebar-nav-pagelink-background--loaded: no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, var(--mono-tint2) 2.75px 4.25px, transparent 4.25px)
 }
-
-/*# sourceMappingURL=theme-simple-dark.css.map */
