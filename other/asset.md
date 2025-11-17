@@ -12,6 +12,7 @@
     - [game-icons 游戏图标](https://game-icons.net/)
     - [icons8 图标](https://icons8.com/)
   - 3D
+    - [poly.pizza 低多边形](https://poly.pizza/)
     - [sketchfab 模型](https://sketchfab.com/)
     - [polyhaven 材质 模型 全景](https://polyhaven.com/)
     - [plaintextures 贴图](https://www.plaintextures.com/index)
