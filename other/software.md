@@ -18,3 +18,7 @@
 - 开发
   - [Godot Engine](https://stoBre.steampowered.com/app/404790/Godot_Engine/)
   - [VSCode](https://code.visualstudio.com/)
+- 工具
+  - [Joplin 笔记文档](https://joplinapp.org/)
+  - [Super Productivity 任务管理](https://super-productivity.com/)
+  - [Docsify 个人网页生成](https://docsify.js.org/#/)
