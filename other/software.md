@@ -23,3 +23,4 @@
   - [Joplin 笔记文档](https://joplinapp.org/)
   - [Super Productivity 任务管理](https://super-productivity.com/)
   - [Docsify 个人网页生成](https://docsify.js.org/#/)
+  - [ComfyUI AI生成](https://docs.comfy.org/zh-CN)
