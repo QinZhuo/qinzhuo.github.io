@@ -39,3 +39,4 @@
   - [craftpix 专注2D的资源商店](https://craftpix.net/)
   - [cg3da 学习版资源](https://www.cg3da.com/)
   - [AI导航](https://www.aigc.cn/)
+  - [huggingface AI模型](https://huggingface.co/spaces)
