@@ -39,3 +39,4 @@
   - [craftpix 专注2D的资源商店](https://craftpix.net/)
   - [cg3da 学习版资源](https://www.cg3da.com/)
   - [huggingface 开源AI模型 和 模型试用](https://huggingface.co/spaces)
+  - [huggingface 的模型镜像网站](https://hf-mirror.com/)
