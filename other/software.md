@@ -9,7 +9,8 @@
     - [体素建模 magica voxel](https://ephtracy.github.io/)
       - [体素 Shader](https://github.com/lachlanmcdonald/magicavoxel-shaders/wiki)
     - 3D打印
-      - [makerworld](https://makerworld.com.cn/zh)
+      - [makerworld 资源](https://makerworld.com.cn/zh)
+      - [otvinta 教程 计算器](https://otvinta.com/index.html)
 - 音乐
   - [Bfxr 在线电子音效制作](https://www.bfxr.net/)
   - [jfxr 在线电子音效制作](https://jfxr.frozenfractal.com/)
